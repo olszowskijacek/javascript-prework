@@ -11,6 +11,7 @@
   transition: all 0.5s;
   letter-spacing: 1px;
   margin: 10px;
+  border: 2px solid black;
 }
 
 button:hover {
@@ -32,5 +33,17 @@ body {
   text-align: center;
   font-size: 35px;
   padding-top: 80px;
+}
+
+.game {
+  border: 2px solid red;
+  margin: auto;
+  width: 200px;
+}
+
+.game p {
+  font-size: 30px;
+  color: darkgreen;
+  text-align: center;
 }
 /*# sourceMappingURL=style.css.map */
